@@ -1,6 +1,3 @@
-//Thaddious Gorges
-//CSC 2110
-//Programming Project
 #include <iostream>
 #include <conio.h>
 #include <string>
